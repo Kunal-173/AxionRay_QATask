@@ -1,0 +1,7 @@
+{
+    "invalidEmailText": " This email is invalid! ",
+    "invalidPasswordText": " Password must be 8 characters or longer! ",
+    "incorrectPasswordText": " Incorrect password for this email. ",
+    "incorrectEmailText": " No account for this email ",
+    "incorrectEmailError": "Email not found. Click here to create an account!"
+}

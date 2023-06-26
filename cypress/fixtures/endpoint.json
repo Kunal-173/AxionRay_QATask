@@ -1,0 +1,4 @@
+{
+    "baseUrl": "https://app.clickup.com",
+    "loginEndpoint": "/login"
+}
